@@ -27,7 +27,7 @@ go build -o github-user-activity .
 **Example:**
 
 ```bash
-./github-user-activity github-activity torvalds
+./github-user-activity github-activity muhamien
 ```
 
 **Output:**
