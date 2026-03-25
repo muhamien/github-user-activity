@@ -1,4 +1,4 @@
-# GitHub User Activity — Portfolio Project
+# GitHub User Activity
 
 ## Overview
 
